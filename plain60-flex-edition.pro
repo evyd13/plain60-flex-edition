@@ -1,4 +1,4 @@
-update=15-7-2020 08:27:28
+update=15-7-2020 08:35:22
 version=1
 last_client=kicad
 [general]
@@ -17,7 +17,7 @@ version=1
 [PcbFrame]
 version=1
 [sheetnames]
-1=c19b4cbc-dbae-4d7b-b141-6ef5bbf997df:
+1=84f396d7-8255-4521-8c76-1fea49fe496d:
 [pcbnew]
 version=1
 PageLayoutDescrFile=

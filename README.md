@@ -1,6 +1,6 @@
 # Plain60 Flex Edition rev2.1
 
-![Plain60 Flex Edition PCB](https://i.imgur.com/KU2QNWX.png)
+![Plain60 Flex Edition PCB](https://i.imgur.com/ITBcMKW.png)
 This universal 60% PCB is designed to support as little layouts as possible without limiting usability for most users. The reason I did this is because other PCBs made for this form factor usually have so many supported layouts that it could almost qualify as swiss cheese.
 
 It also features a fuse and an ESD protection chip to protect the MCU and other parts of the PCB.
